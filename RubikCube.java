@@ -1,5 +1,5 @@
 /*
-    *Please refer to the attached PDF before referring to the code
+    *Please refer to the attached PDF and ReadMe files before referring to the code
 */
 
 
