@@ -34,8 +34,8 @@ A Java-based console application which simulates a 3x3x3 Rubik's Cube. This prog
 ## Setup and Usage (Both java files should be placed in the same directory)
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/RubikCubeSolver.git
-
+   git clone https://github.com/DevhanKapuduwa/Rubik-Cube-Solver.git
+   
 2. Navigate to the project directory (RubikCubeSolver):
     ```bash
     cd RubikCubeSolver
